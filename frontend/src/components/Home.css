@@ -1,0 +1,48 @@
+
+.panesContainer {
+    padding-left: 3%;
+    padding-right: 3%;
+    justify-content: space-between;
+}
+
+.leftPane {
+    justify-content: center;
+} 
+
+.dropDownImg {
+    width: 25%;
+    height: 25%;
+}
+
+.rightPane {
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+}
+.rightPane #addColumnButton {
+    text-align: right;
+    padding-right: 5%;
+}
+
+.rightPane .Form {
+    margin-bottom: 20%;
+}
+
+.rightPane .columnsData {
+    justify-content: space-between;
+}
+
+.rightPane .rightPaneHeading {
+    height: 10%;
+}
+
+.rightPane .datatypes {
+    text-align: left;
+}
+
+.rightPane .constraints {
+    text-align: left;
+}
+
+
+
